@@ -61,12 +61,6 @@ Example test cases and their expected output:
   DEC AB89 -> ERROR: Invalid number of parameters
   ...
 ```
-## Demo
-
-![SAES Demo](SAES%20Test%20Demo.gif)
-
-
-
 
 ## Documentation
 
