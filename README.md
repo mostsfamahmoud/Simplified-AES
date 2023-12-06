@@ -67,12 +67,12 @@ Insert gif or link to demo
 
 ## Documentation
 
-[Simplified AES](https://drive.google.com/drive/u/0/folders/1aMXZ8JHq6x5-J9e_ccthcW4Aejpd0uB8)
+[Simplified AES - Description](https://drive.google.com/file/d/1tLhBhxPMGsXl014pApB5zxfZEp-xI4rA/view?usp=sharing)
+
 ## Acknowledgements
 
  - [Simplified AES - Northern Kentucky University](https://www.nku.edu/~christensen/simplified%20AES.pdf)
  - [Simplified AES - sandilands.info](https://sandilands.info/sgordon/teaching/reports/simplified-aes-example.pdf)
- - [Simplified AES - Description](https://drive.google.com/drive/u/0/folders/1aMXZ8JHq6x5-J9e_ccthcW4Aejpd0uB8)
 
 
 ## Feedback
