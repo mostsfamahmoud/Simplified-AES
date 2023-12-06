@@ -23,6 +23,7 @@ Clone this repository:
 
 ```bash
     git clone https://github.com/mostsfamahmoud/Simplified-AES.git
+    cd Simplified-AES/
 ```
 
 
