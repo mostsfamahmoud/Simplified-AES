@@ -63,7 +63,9 @@ Example test cases and their expected output:
 ```
 ## Demo
 
-Insert gif or link to demo
+![SAES Demo](SAES%20Test%20Demo.gif)
+
+
 
 
 ## Documentation
