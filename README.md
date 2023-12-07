@@ -74,7 +74,7 @@ Example test cases and their expected output:
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mostafamahmoud.cse@gmail.com
+If you have any feedback, please reach out to me at mostafamahmoud.cse@gmail.com
 
 
 ## 🔗 Links
